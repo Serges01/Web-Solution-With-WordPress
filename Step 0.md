@@ -27,9 +27,7 @@ Three-tier Architecture is a client-server software architecture pattern that co
 
 In this project, you will have the hands-on experience that showcases Three-tier Architecture while also ensuring that the disks used to store files on the Linux servers are adequately partitioned and managed through programs such as gdisk and LVM respectively.
 
-You will be working working with several storage and disk management concepts, to have a better understanding, watch following video: Disk management in Linux
 
-Note: We are gradually introducing new AWS elements into our solutions, but do not be worried if you do not fully understand AWS Cloud Services yet, there are Cloud focused projects ahead where we will get into deep details of various Cloud concepts and technologies – not only AWS, but other Cloud Service Providers as well.
 
 ### Your 3-Tier Setup
 
